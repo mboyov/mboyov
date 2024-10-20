@@ -4,7 +4,7 @@ I'm **Jordan** ! Passionate about technology and always eager to learn and explo
 
 ### A little about me:
 
-- 🌱 I’m currently learning **JavaScript, React, and Python** and deepening my knowledge in **full-stack development**.
+- 🌱 I’m currently learning **JavaScript, React, Python** and deepening my knowledge in **full-stack development**.
 - 👯 I’m looking to collaborate on **innovative projects** and contributing to the developer community.
 - 📫 How to reach me: [mboyov@arcadev.ch](mailto:mboyov@arcadev.ch) or connect with me on [X / Twitter](https://x.com/mboyov).
 - ⚡ Fun fact: I can code faster with music! 🎧
